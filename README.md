@@ -9,3 +9,4 @@ For Duke ECE 550 project 2022 Fall. Plagiarism is prohibited!
 <img width="477" alt="Screen Shot 2022-10-11 at 23 20 38" src="https://user-images.githubusercontent.com/93239143/195242258-e219f996-9893-4707-8f41-56e70412e159.png">
 ![Picture1 23 57 21](https://user-images.githubusercontent.com/93239143/195246607-8ff5c7a2-a295-4690-88e2-b441c14609a2.png)
 <img width="230" alt="Screen Shot 2022-10-12 at 00 04 18" src="https://user-images.githubusercontent.com/93239143/195247364-0c562020-1f81-4c53-9252-ec45424fad05.png">
+<img width="593" alt="Screen Shot 2022-11-02 at 04 18 27" src="https://user-images.githubusercontent.com/93239143/199436216-23ad55ab-db8d-427e-9045-b3dcf50cf693.png">
