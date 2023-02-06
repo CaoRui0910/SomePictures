@@ -17,4 +17,4 @@ For Duke ECE 550 project 2022 Fall. Plagiarism is prohibited!
 For Duke ECE 650 project 2023 Spring. Plagiarism is prohibited!
 <img width="637" alt="Screen Shot 2023-01-25 at 14 28 22" src="https://user-images.githubusercontent.com/93239143/214668154-0c8f9570-4150-46a0-b196-c853a1a14bbf.png">
 <img width="510" alt="Screen Shot 2023-01-25 at 14 39 32" src="https://user-images.githubusercontent.com/93239143/214670774-29ef4407-1501-4a3b-9421-4451cf35338c.png">
-<img width="484" alt="Screen Shot 2023-02-05 at 22 05 54" src="https://user-images.githubusercontent.com/93239143/216874602-7da8d69c-991c-4d83-9958-28348ca99d34.png">
+<img width="748" alt="Screen Shot 2023-02-06 at 01 20 05" src="https://user-images.githubusercontent.com/93239143/216897777-07d1e7b7-1c4e-4ff3-b83c-1030bf199ad9.png">
